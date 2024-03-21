@@ -1,4 +1,0 @@
-#Thu Mar 21 16:49:57 WIB 2024
-base.0=/home/mansur/data/htdocs/flutter/me/kisah_nabi/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
