@@ -1,0 +1,4 @@
+#Thu Mar 21 15:04:04 WIB 2024
+base.0=/home/mansur/data/htdocs/flutter/me/kisah_nabi/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
